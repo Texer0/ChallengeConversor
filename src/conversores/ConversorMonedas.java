@@ -1,11 +1,11 @@
+package conversores;
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Main {
+public class ConversorMonedas {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-        //System.out.println("Monedas -> " + Arrays.toString(monedas));
-
         // Inicio del programa
         System.out.println("Eliga su moneda");
         System.out.println("0-dolar 1-peso argentino 2-euro 3-libra esterlina 4-yen japones 5-won sur coreano");
@@ -18,7 +18,6 @@ public class Main {
     }
     public static void convertir(int monedaInicial, float cantidadAConvertir, int monedaElegida) {
         DecimalFormat df = new DecimalFormat("#.##");
-
         // Array de las monedas
         float[] monedas = new float[6];
         float dolar = 265.03f;
@@ -34,10 +33,9 @@ public class Main {
         monedas[4] = yen_japones;
         monedas[5] = won_sur_coreano;
 
+//      Conversion
         float resultado = monedas[monedaInicial] / monedas[monedaElegida] * cantidadAConvertir;
-        System.out.println("Moneda inicial          " + monedas[monedaInicial]);
-        System.out.println("Moneda elegida          " + monedas[monedaElegida]);
-        System.out.println("Cantidad a convertir    " + cantidadAConvertir);
+
         System.out.println("El resultado es: " + df.format(resultado));
     }
 }
