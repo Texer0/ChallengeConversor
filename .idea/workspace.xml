@@ -5,16 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e3ca7db-89a2-4d43-9315-6edb58350f58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Colors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/views/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/conversor-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/longitud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/monedas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/tiempo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/ConversorMonedas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/DivisasForm.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/DivisasForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/HomePanel.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/HomePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pruebas/Prueba1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conversores/ConversorMonedas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/Colors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Colors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/views/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/views/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/conversor-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/divisas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/longitud.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/longitud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/monedas.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/monedas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/tiempo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/tiempo.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,19 +56,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/maxi_/IdeaProjects/ChallengeConversor/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "false",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "223",
+    "last_opened_file_path": "C:/Users/maxi_/Downloads/Conversor-de-unidades-main",
+    "onboarding.tips.debug.path": "C:/Users/maxi_/IdeaProjects/ChallengeConversor/src/Main.java"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\maxi_\Desktop\Oracle ONE\Challenges\Challenge 2 - Conversor\ChallengeConversor\src\img" />
@@ -121,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689365277214</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Interfaz con 2 labels">
+      <created>1692123754266</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692123754266</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +152,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1er commir" />
     <MESSAGE value="conversor con la terminal" />
-    <option name="LAST_COMMIT_MESSAGE" value="conversor con la terminal" />
+    <MESSAGE value="Interfaz con 2 labels" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interfaz con 2 labels" />
   </component>
 </project>
