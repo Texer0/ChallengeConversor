@@ -1,6 +1,5 @@
 package app;
 
-import app.views.Home;
 import app.views.HomePanel;
 
 import javax.swing.*;

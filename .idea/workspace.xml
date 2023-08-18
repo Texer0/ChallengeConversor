@@ -5,18 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e3ca7db-89a2-4d43-9315-6edb58350f58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/views/ConversorMonedas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/views/DivisasForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/views/DivisasForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/views/HomePanel.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/views/HomePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pruebas/Prueba1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/DivisasPanel.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/views/DivisasPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/fondo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/masa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/temperatura.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/Colors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Colors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/views/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/views/Home.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/conversor-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/divisas.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/longitud.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/longitud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/views/ConversorMonedas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/views/DivisasForm.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/views/DivisasForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/views/Home.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/views/HomePanel.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/views/HomePanel.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/views/HomePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/views/HomePanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/img/monedas.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/monedas.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/img/tiempo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/tiempo.png" afterDir="false" />
     </list>
@@ -60,7 +62,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "false",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "true",
     "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "223",
     "last_opened_file_path": "C:/Users/maxi_/Downloads/Conversor-de-unidades-main",
     "onboarding.tips.debug.path": "C:/Users/maxi_/IdeaProjects/ChallengeConversor/src/Main.java"
@@ -74,6 +76,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maxi_\Desktop\Oracle ONE\Challenges\Challenge 2 - Conversor\ChallengeConversor\src\app\views" />
+      <recent name="C:\Users\maxi_\Desktop\Oracle ONE\Challenges\Challenge 2 - Conversor\ChallengeConversor\src\app" />
       <recent name="C:\Users\maxi_\Desktop\Oracle ONE\Challenges\Challenge 2 - Conversor\ChallengeConversor\src\img" />
     </key>
   </component>
@@ -135,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692123754266</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Interfaz con 2 labels">
+      <created>1692143893468</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692143893468</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
